@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.1.0)
+  - SDWebImage (5.7.3):
+    - SDWebImage/Core (= 5.7.3)
+  - SDWebImage/Core (5.7.3)
+  - SegementSlide (2.2.3)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - SegementSlide
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SegementSlide
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  SDWebImage: 97351f6582ceca541ea294ba66a1fcb342a331c2
+  SegementSlide: 7a35da31eaa87fa0af42cc402395821a0c6835ae
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 8f48b2d7e49cb83000dc2f36c570f67d3adc9c11
+
+COCOAPODS: 1.9.1

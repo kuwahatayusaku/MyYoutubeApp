@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87639400061-5jqe3vitjtec5nmu3rg3loqb64kgb6gt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87639400061-5jqe3vitjtec5nmu3rg3loqb64kgb6gt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3wzMVf2mx3JLMd6OBbCf1K0P3lTeyc_E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87639400061</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gmail-naruzokun02.SwiftYoutubeApp</string>
+	<key>PROJECT_ID</key>
+	<string>swiftapp-e537b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftapp-e537b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87639400061:ios:5faf4d1d77ba9b47431b14</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftapp-e537b.firebaseio.com</string>
+</dict>
+</plist>
